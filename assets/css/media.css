@@ -1,0 +1,301 @@
+
+
+@media(max-width: 1399px){
+
+
+}
+
+
+@media(max-width: 1199px){
+
+
+h1 {
+    font-size: 38px;
+    padding: 10px 0;
+    }
+.device-section p {
+    padding-bottom: 20px;
+}
+.beautiful-device .heading {
+    padding-top: 0px;
+}
+.like-section ul {justify-content: center !important;}
+.like-section li {
+    padding-bottom: 15px;
+}
+.table-details li p {
+    padding-top: 30px;
+    padding-right: 6px;
+    padding-left: 6px;
+    padding-bottom: 20px;
+    font-size: 17px;
+}
+.map iframe{height: 500px;
+}
+}
+
+
+@media(max-width: 991px){
+
+.navbar-nav {
+    -ms-flex-direction: row;
+    flex-direction: row;
+    justify-content: center;
+    }
+.device-section {
+    padding-top: 25px;
+}
+
+.device-section p {
+    padding-bottom: 5px;
+    font-size: 16px;
+}
+.device-section .img-fluid {
+    padding-top: 75px;
+}
+.device-section ul.nav {
+    padding-bottom: 30px;
+}
+.customize-section p {
+    padding-top: 18px;
+    font-size: 16px;
+    text-align: justify;
+}
+.customize-section img.img-fluid {
+    padding-top: 20px;
+}
+.heading h3 {
+    font-size: 13px;
+    padding-top: 0;
+}
+.heading h4 {
+    font-size: 27px;
+    padding-bottom: 0;
+    padding-top: 5px;
+}
+.beautiful-device p {
+    padding: 15px 0;
+    font-size: 17px;
+    margin: 0;
+}
+.beautiful-device li {
+    font-size: 16px;
+    padding: 6px 0;
+}
+.beautiful-device .heading {
+    padding-top: 0px;
+}
+.like-section span {
+    font-size: 34px;
+
+}
+.feture-icon {
+    width: 65px;
+    height: 65px;
+    line-height: 60px;
+}
+.feature-section img {
+    max-width: 44%;
+}
+.table-details li p {
+    padding-top: 35px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 25px;
+    font-size: 17px;
+}
+.table-details .price div {
+    font-size: 55px;
+}
+.foam-section {
+    padding: 25px 30px;
+    transform: translateY(80px);
+}
+.foam-section input {
+    padding: 8px 12px;
+    margin-bottom: 15px;
+}
+.foam-section .row.text-right {
+    padding-top: 20px;
+    text-align: center !important;
+}
+.foam-section textarea {
+    height: 160px;
+    }
+footer {
+    padding: 30px 0;
+}  
+.map iframe{height: 430px;
+}
+
+
+}
+
+
+
+
+
+@media(max-width: 767px){
+.navbar-nav {
+    -ms-flex-direction: column;
+    flex-direction: column;
+    align-items: flex-end;
+    }
+.device-section p {
+    padding-bottom: 20px;}
+.device-section ul {
+    padding-bottom: 60px;
+} 
+.device-section .img-fluid {
+    padding-top: 20px;
+    display: block;
+}
+h1 {
+    font-size: 42px;
+    padding: 8px 0;
+}
+.heading h4 {
+    font-size: 34px;
+    padding: 5px 0;
+}
+.feature-section {
+    padding-bottom: 0px !important;
+}
+ .feature-details {
+    padding-bottom: 35px;
+    }
+.feature-details p {
+    font-size: 16px;
+    }
+.feture-icon {
+    width: 55px;
+    height: 55px;
+    line-height: 55px;
+}
+
+  .feature-details span {
+    padding: 8px;
+}
+.beautiful-device p {
+    padding: 20px 0;
+    font-size: 17px;}
+.beautiful-device li {
+    font-size: 17px;
+    padding: 5px 0;
+}
+.carousel-item ul.nav {
+    padding-bottom: 40px;
+}
+.carousel-item p{
+    font-size: 17px;
+}
+.carousel-item ul li span, .carousel-item ul li strong {
+font-size: 13px;
+}
+.like-section {
+ padding: 50px 0;
+}
+.like-section span {  
+font-size: 30px;
+padding-bottom: 30px;
+}
+    
+.like-section li {
+    padding-bottom: 20px;
+    padding-top: 0;
+}
+
+.foam-section {
+    background: #15141a;
+    padding: 30px 30px;
+    transform: translateY(80px);
+}
+.map iframe{height: 350px;
+}
+}
+
+
+@media(max-width: 575px){
+
+
+
+ header a img {
+    padding-left: 20px;
+}
+
+
+.device-section {
+    padding-left: 15px;
+    padding-right: 10px;
+    }
+h1 {
+    font-size: 34px;
+    padding: 7px 0;
+    text-align: center;
+}
+h3 {
+    padding-top: 0;
+    text-align: center;
+    }
+    
+.device-section p {
+    padding-bottom: 30px;
+    padding-right: 15px;
+    text-align: center;
+    }
+.device-section ul {
+    padding-bottom: 60px;
+}    
+.device-section ul li {
+    padding-left: 0;
+    padding-right: 10px;
+}
+
+.feature-section {
+    padding-bottom: 0px !important;
+}
+.feature-details {
+    padding-bottom: 35px;
+    }
+    
+ .feature-details span {
+    padding: 8px;
+}
+
+.heading h4 {
+    font-size: 32px;
+    padding: 5px 0;}
+    
+
+ .heading {
+    text-align: center;}
+.beautiful-device p {
+    text-align: justify;
+    padding: 15px 0;
+    }
+.beautiful-device ul{
+    padding-left: 5px; 
+}
+.beautiful-device li {
+    font-size: 16px;
+    padding: 8px 0;
+}   
+.customize-section p {
+    padding: 10px 0;
+    font-size: 17px;
+}
+
+
+.address-section span {
+    font-size: 16px;}
+    
+.address-section i {
+    font-size: 25px;
+}    
+.map iframe{height: 300px;
+}
+}
+
+
+
+
